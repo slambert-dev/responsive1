@@ -1,0 +1,57 @@
+{
+    "root": {
+        "data": {
+            "id": "coz7c59yr200",
+            "created": 1670783546777,
+            "text": "Responsive Design",
+            "priority": null,
+            "background": "#000000",
+            "expandState": "expand"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "coz7cszq8a00",
+                    "created": 1670783598401,
+                    "text": "Définition",
+                    "expandState": "expand",
+                    "background": "#ffffff",
+                    "layout_fish-bone-master_offset": {
+                        "x": -45,
+                        "y": -54
+                    },
+                    "hyperlink": "https://www.alsacreations.com/article/lire/1615-cest-quoi-le-responsive-web-design.html",
+                    "hyperlinkTitle": "Définition Alsa Création"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "coz7e139gl40",
+                    "created": 1670783694393,
+                    "text": "Exemple en photos",
+                    "layout_fish-bone-master_offset": {
+                        "x": -42,
+                        "y": 6
+                    },
+                    "hyperlink": null,
+                    "hyperlinkTitle": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "coz7g766la00",
+                    "created": 1670783864359,
+                    "text": "Exemple à tester",
+                    "hyperlink": "https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_col-s",
+                    "hyperlinkTitle": "Responsive W3Schools"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "fish-bone",
+    "theme": "fresh-purple",
+    "version": "1.4.43"
+}
